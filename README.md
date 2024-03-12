@@ -1,4 +1,4 @@
-![커버](https://capsule-render.vercel.app/api?type=waving&color=F9D4D4&height=300&text=%EC%A6%90%EA%B2%81%EA%B3%A0+%EC%97%B4%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C+%EA%B0%9C%EB%B0%9C%ED%95%98%EC%9E%90&fontSize=50&fontAlign=50&fontAlignY=40&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=55)
+![커버](https://capsule-render.vercel.app/api?type=waving&color=F9D4D4&fontColor=FFFFFF&height=300&text=%EC%A6%90%EA%B2%81%EA%B3%A0+%EC%97%B4%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C+%EA%B0%9C%EB%B0%9C%ED%95%98%EC%9E%90&fontSize=50&fontAlign=50&fontAlignY=40&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=55)
 
 ### 안녕하세요😊 프론트엔드 개발자 이주비입니다.
 
